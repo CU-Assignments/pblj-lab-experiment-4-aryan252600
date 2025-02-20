@@ -1,5 +1,3 @@
-import java.util.concurrent.*;
-
 class TicketBookingSystem {
     private final boolean[] seats;
     
